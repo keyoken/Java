@@ -1,4 +1,5 @@
-### Implementing Exceptions Handling - 404 Resource Not Found
+
+# Implementing Exceptions Handling - 404 Resource Not Found
 
 ```
 
@@ -64,7 +65,7 @@ public class UserResource {
  
  
  
- ## Also create the my oun Exception with  UserNotFoundException.java
+ # Also create the my oun Exception with  UserNotFoundException.java
  
 ```
 import org.springframework.http.HttpStatus;
