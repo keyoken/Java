@@ -22,11 +22,16 @@ Implement Distributed tracing with Spring Cloud Sleuth and Zipkin
 
 Implement Fault Tolerance with Zipkin
 
+
+
 Microservices Introduction
 
 Step  01 - Introduction to Microservices
+
 Step  02 - Challenges with Microservices
+
 Step  03 - Microservice Solutions REMOVE THIS
+
 Step  04 - Introduction to Spring Cloud TODO
 
 
